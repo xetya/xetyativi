@@ -230,6 +230,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h39/02.m3u8?app_type=web&userid=lite&c
 https://flv.intechmedia.net/live/ch107.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/I2BBTjDaZ-4qFlyLFNoM1Xqv9FcdOlcb69SFXnKmYglELId-9OLl49Ng0goXQ6j44g" group-title="RADIO" ,RADIO AR BALI
+https://live.radioarbali.com:8450/radioar
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVqZw_rTi4ybnQ-SNzf_kpD49HgM06LJnOkUr4CYBO4w&s=10" group-title="MUSIK YOUTUBE" ,The Good Time Radio
 https://www.youtube.com/live/YDuz4mAtyf4?si=hL-1xuk0sfCYGJ8P
