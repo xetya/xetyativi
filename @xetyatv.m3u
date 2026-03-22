@@ -245,6 +245,25 @@ https://ina.vinhostmedia.com:8000/kumalaradio
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/396/ardan-fm.46d7b4ee.jpg" group-title="RADIO" ,ARDAN FM
 https://stream.rcs.revma.com/ugpyzu9n5k3vv
 
+#EXTINF:-1 tvg-logo="https://www.pramborsfm.com/_ipx/q_100/img/logo_circle.png" group-title="RADIO" ,PRAMBORS
+https://stream.rcs.revma.com/h77wwp48kxcwv
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/by9rcegw4mrd.png" group-title="RADIO" ,TOTALLY RADIO HITS
+https://28803.live.streamtheworld.com/T_RAD_HITS_S01AAC_SC?dist=triton-widget&pname=tdwidgets
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/270/radio-country-live.ca8d7889.png" group-title="RADIO" ,COUNTRY LIVE NY
+https://streaming.radiostreamlive.com/radiocountrylive_devices
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/609/americas-country.ab6bc362.png" group-title="RADIO" ,AMERICA'S COUNTRY
+https://ais-sa2.cdnstream1.com/1976_128.mp3
+
+
+
+
+
+
+
+
 
 
 
