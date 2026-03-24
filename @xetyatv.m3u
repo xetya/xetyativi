@@ -236,6 +236,9 @@ https://ina.vinhostmedia.com:8000/kumalaradio
 #EXTINF:-1 tvg-logo="https://www.pramborsfm.com/_ipx/q_100/img/logo_circle.png" group-title="RADIO" ,PRAMBORS
 https://stream.rcs.revma.com/h77wwp48kxcwv
 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/552/977-todays-hits.81a51b5b.jpg" group-title="RADIO" ,HITS RADIO
+https://15313.live.streamtheworld.com/977_HITS_SC
+
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/by9rcegw4mrd.png" group-title="RADIO" ,TOTALLY RADIO HITS
 https://28853.live.streamtheworld.com/T_RAD_HITS_S01.mp3
 
