@@ -215,17 +215,23 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cpu44hap66fa.jpg" group-title="RADIO" ,RADIO GENTA BALI
 http://stream.werdimedia.com:8200/;
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1NcVs0K80YC8tRfsJFEdj-Km2hbN8zQVnrA&s" group-title="RADIO" ,DELTA FM
+https://stream.rcs.revma.com/k02rmq48kxcwv
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/I2BBTjDaZ-4qFlyLFNoM1Xqv9FcdOlcb69SFXnKmYglELId-9OLl49Ng0goXQ6j44g" group-title="RADIO" ,RADIO AR BALI
 https://live.radioarbali.com:8450/radioar
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ7TXax5TuaQj82_aQ_geqhioa2dWf9YqNug&s" group-title="RADIO" ,HARD ROCK JKT
+https://n03.radiojar.com/7csmg90fuqruv.mp3?1673348819=&rj-ttl=5&rj-tok=AAABnR566LMA2s3lMxXMEMuryA
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/nsjujqhxfrch.jpg" group-title="RADIO" ,SUARA MAHAKAM
 https://i.klikhost.com/8010/stream
 
-#EXTINF:-1 tvg-logo="https://radio-online.id/assets/image/radio/180/kum-samarinda.jpg" group-title="RADIO" ,KUMALA SAMARINDA
-https://ina.vinhostmedia.com:8000/kumalaradio
-
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/396/ardan-fm.46d7b4ee.jpg" group-title="RADIO" ,ARDAN FM
 https://stream.rcs.revma.com/ugpyzu9n5k3vv
+
+#EXTINF:-1 tvg-logo="https://radio-online.id/assets/image/radio/180/kum-samarinda.jpg" group-title="RADIO" ,KUMALA SAMARINDA
+https://ina.vinhostmedia.com:8000/kumalaradio
 
 #EXTINF:-1 tvg-logo="https://www.pramborsfm.com/_ipx/q_100/img/logo_circle.png" group-title="RADIO" ,PRAMBORS
 https://stream.rcs.revma.com/h77wwp48kxcwv
