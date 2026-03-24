@@ -251,6 +251,8 @@ https://streaming.radiostreamlive.com/radiocountrylive_devices
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/609/americas-country.ab6bc362.png" group-title="RADIO" ,AMERICA'S COUNTRY
 https://ais-sa2.cdnstream1.com/1976_128.mp3
 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/584/luna-fm-world.2c1c9bdb.png" group-title="RADIO" ,LUNA FM
+https://world.lunafm.net/listen/lunaworld/mytuner-radio.aac
 
 
 
