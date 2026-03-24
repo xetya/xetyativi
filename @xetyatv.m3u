@@ -251,6 +251,9 @@ https://pureplay.cdnstream1.com/6027_128.mp3
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/270/radio-country-live.ca8d7889.png" group-title="RADIO" ,COUNTRY LIVE NY
 https://streaming.radiostreamlive.com/radiocountrylive_devices
 
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/64612b173662983.6497c72f84b38.jpg" group-title="RADIO" ,JAPAN CITYPOP
+https://boxradio-edge-00.streamafrica.net/jpopchill
+
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/609/americas-country.ab6bc362.png" group-title="RADIO" ,AMERICA'S COUNTRY
 https://ais-sa2.cdnstream1.com/1976_128.mp3
 
