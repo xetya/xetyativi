@@ -224,11 +224,20 @@ https://stream.rcs.revma.com/k02rmq48kxcwv
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/I2BBTjDaZ-4qFlyLFNoM1Xqv9FcdOlcb69SFXnKmYglELId-9OLl49Ng0goXQ6j44g" group-title="RADIO" ,RADIO AR BALI
 https://live.radioarbali.com:8450/radioar
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ7TXax5TuaQj82_aQ_geqhioa2dWf9YqNug&s" group-title="RADIO" ,HARD ROCK JKT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ7TXax5TuaQj82_aQ_geqhioa2dWf9YqNug&s" group-title="RADIO" ,HARDROCK JAKARTA
 https://n03.radiojar.com/7csmg90fuqruv.mp3?1673348819=&rj-ttl=5&rj-tok=AAABnR566LMA2s3lMxXMEMuryA
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/nsjujqhxfrch.jpg" group-title="RADIO" ,SUARA MAHAKAM
 https://i.klikhost.com/8010/stream
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP5iiTF49ekdDSKIO75BLTl90t52yeSr0Erg&s" group-title="RADIO" ,HARDROCK BALI
+http://n04.radiojar.com/9k28wsbu5k8uv?rj-tok=AAABnR_uTrQAskU__SxOdOuRJw&rj-ttl=5
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/NCUHGk4XRJ.png" group-title="RADIO" ,RRI PRO 3
+https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/94TuYcUwex.png" group-title="RADIO" ,RRI PRO 1 JAKARTA
+https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/396/ardan-fm.46d7b4ee.jpg" group-title="RADIO" ,ARDAN FM
 https://stream.rcs.revma.com/ugpyzu9n5k3vv
