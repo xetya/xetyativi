@@ -2921,29 +2921,42 @@ https://cctvsamarinda.iconpln.co.id:3388/xmedia/4xIx1DOxSE00M7Y0MzM1MNFLTsw1MBAS
 #   ╚═══╝   ╚═════╝ ╚═════╝ 
 🔷══════════════════════════════════════════════════════════════════ [VIDEO ON DEMAND] ══════════════════════════════════════════════════════════════════🔷
 
-#EXTINF:-1 tvg-logo=https://m.media-amazon.com/images/M/MV5BZTI4YzAxNjUtM2ZhZS00MmFkLWI1YTYtZGViNWM5MzA1NDQxXkEyXkFqcGc@._V1_.jpg group-title=FILM KARTUN,Hoppers (2026)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTI4YzAxNjUtM2ZhZS00MmFkLWI1YTYtZGViNWM5MzA1NDQxXkEyXkFqcGc@._V1_.jpg" group-title="FILM KARTUN",Hoppers (2026)
 https://cloud.hownetwork.xyz/xxx/Khc5PiALBGxwYUV6bmcTGgY0FhYaTBRzc2JBKiA/40/480.m3u8
 #https://edge1-madrid-sprintcdn.r66nv9ed.com/hls2/09/11012/jim9cjnioy3i_x/index-v1-a1.m3u8?t=BA_IbjL8KsVYzH5o85djfu33xzFQtgLaVsGsoC0y_yc&s=1774669082&e=10800&f=55062121&srv=1050&asn=24203&sp=5500&p=0
 
 #=========================
 
-#EXTINF:-1 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnxG55zs7PcWjQ0XULHDAjXFvdGWUApHGGZg&s group-title=FILM KARTUN,Zootopia 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnxG55zs7PcWjQ0XULHDAjXFvdGWUApHGGZg&s" group-title="FILM KARTUN",Zootopia 2
 https://cloud.hownetwork.xyz/xxx/OBcmOioJHiBvY1p-cwJjdRU9CwoJJi8eJ2JOfHACNWk/38/480.m3u8
 
 #=========================
 
-#EXTINF:-1 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKyEbi1yxOGfLG0kZ93D9G2FqkRHZ8tQ4Ajg&s group-title=FILM KARTUN,PAPA ZOLA: THE MOVIE
+#EXTINF:-1 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKyEbi1yxOGfLG0kZ93D9G2FqkRHZ8tQ4Ajg&s group-title="FILM KARTUN",PAPA ZOLA: THE MOVIE
 https://cloud.hownetwork.xyz/xxx/Mhk5L2gDGC0jfBojNVkzdXBIe3toLjIDBh0oFBwCNDp1Si0odg/40/480.m3u8
 
 #=========================
 
-#EXTINF:-1 group-title=FILM KARTUN,Demon Slayer -Kimetsu no Yaiba- The Movie: Infinity Castle (2025)
+#EXTINF:-1 group-title="FILM KARTUN",Demon Slayer -Kimetsu no Yaiba- The Movie: Infinity Castle (2025)
 https://cloud.hownetwork.xyz/xxx/Jh0kIStUBC0jKBI-bls_NScMOjtoFxhsOzAeLiIdIjAnVSQhMxASbCs_ESUtWSIhbxsoPTEVEmxwYUV5bmcTGgY0FhYaTkMnejMVeyY/38/480.m3u8
 
 #=========================
 
-#EXTINF:-1 group-title=FILM KARTUN,Detective Conan: One-Eyed Flashback
+#EXTINF:-1 group-title="FILM KARTUN",Detective Conan: One-Eyed Flashback
 https://cloud.hownetwork.xyz/xxx/Jh09KyYNHjcnfBQjLVE4dS0WLGMgABIlbzcbLTBYNDkhE2R8dUtCbBUUNQgPbw4Hekh9L3RJQnA/37/480.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://rricoid-assets.obs.ap-southeast-4.myhuaweicloud.com/berita/Bengkulu/o/1724074705147-Anime_AttackonTitan_Movie_TheLastAttack-1024x576-1/ylufb6d58fpyvnz.jpeg",Attack on Titan the Movie: The Last Attack (2024)
+https://hls3.turbosplayer.com/file/61e930fe-088f-11f0-bba4-901b0eb894f0/master.m3u8
+
+#=========================
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/4d/a4/d4/4da4d4c94ea6a1c7cb5fbd17e968786a.jpg" group-title="FILM KARTUN",Spider-Man: Across the Spider-Verse (2023)
+https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/01/04523/h1gyvm8ve1vw_h/index-v1-a1.m3u8?t=Zzye05xBuCP-_jFIcdf_FBgxLhHRf07X5I7E9kByBIw&s=1774750311&e=10800&f=22615775&srv=1065&asn=24203&sp=4000&p=0
+
+
+
+
 
 
 
@@ -2956,7 +2969,7 @@ https://xetya77.github.io/XETYAVIDEO/music-video/oneokrock/dystopia/index.m3u8
 #EXTINF:-1 tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/06/the-spongebob-movie_-search-for-squarepants-2025.jpg?w=1600&h=900&fit=crop" group-title="FILM", The SpongeBob Movie - Search for SquarePants
 https://www.googleapis.com/drive/v3/files/1jvV8VKbOLq0TFy26y1jSysyajcq8GbLd?alt=media&key=AIzaSyBTpS1krqTwjb35hFHOQJJLBCtZjgGvurw
 
-#EXTINF:-1 group-title=FILM KARTUN,Demon Slayer -Kimetsu no Yaiba- The Movie: Infinity Castle (2025)
+#EXTINF:-1 group-title="FILM KARTUN",Demon Slayer -Kimetsu no Yaiba- The Movie: Infinity Castle (2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36 Chrome/122.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://id.hownetwork.xyz/
 https://cloud.hownetwork.xyz/xxx/Jh0kIStUBC0jKBI-bls_NScMOjtoFxhsOzAeLiIdIjAnVSQhMxASbCs_ESUtWSIhbxsoPTEVEmxwYUV5bmcTGgY0FhYaTkMnejMVeyY/38/480.m3u8
