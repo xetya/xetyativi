@@ -2924,41 +2924,104 @@ https://cctvsamarinda.iconpln.co.id:3388/xmedia/4xIx1DOxSE00M7Y0MzM1MNFLTsw1MBAS
 #   ╚═══╝   ╚═════╝ ╚═════╝ 
 🔷══════════════════════════════════════════════════════════════════ [VIDEO ON DEMAND] ══════════════════════════════════════════════════════════════════🔷
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTI4YzAxNjUtM2ZhZS00MmFkLWI1YTYtZGViNWM5MzA1NDQxXkEyXkFqcGc@._V1_.jpg" group-title="FILM KARTUN",Hoppers (2026)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTI4YzAxNjUtM2ZhZS00MmFkLWI1YTYtZGViNWM5MzA1NDQxXkEyXkFqcGc@._V1_.jpg" group-title="FILM;KARTUN",Hoppers (2026)
 https://cloud.hownetwork.xyz/xxx/Khc5PiALBGxwYUV6bmcTGgY0FhYaTBRzc2JBKiA/40/480.m3u8
 #https://edge1-madrid-sprintcdn.r66nv9ed.com/hls2/09/11012/jim9cjnioy3i_x/index-v1-a1.m3u8?t=BA_IbjL8KsVYzH5o85djfu33xzFQtgLaVsGsoC0y_yc&s=1774669082&e=10800&f=55062121&srv=1050&asn=24203&sp=5500&p=0
 
 #=========================
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnxG55zs7PcWjQ0XULHDAjXFvdGWUApHGGZg&s" group-title="FILM KARTUN",Zootopia 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnxG55zs7PcWjQ0XULHDAjXFvdGWUApHGGZg&s" group-title="FILM;KARTUN",Zootopia 2
 https://cloud.hownetwork.xyz/xxx/OBcmOioJHiBvY1p-cwJjdRU9CwoJJi8eJ2JOfHACNWk/38/480.m3u8
 
 #=========================
 
-#EXTINF:-1 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKyEbi1yxOGfLG0kZ93D9G2FqkRHZ8tQ4Ajg&s group-title="FILM KARTUN",PAPA ZOLA: THE MOVIE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKyEbi1yxOGfLG0kZ93D9G2FqkRHZ8tQ4Ajg&s" group-title="FILM;KARTUN",PAPA ZOLA: THE MOVIE
 https://cloud.hownetwork.xyz/xxx/Mhk5L2gDGC0jfBojNVkzdXBIe3toLjIDBh0oFBwCNDp1Si0odg/40/480.m3u8
 
 #=========================
 
-#EXTINF:-1 group-title="FILM KARTUN",Demon Slayer -Kimetsu no Yaiba- The Movie: Infinity Castle (2025)
+#EXTINF:-1 group-title="FILM;KARTUN",Demon Slayer -Kimetsu no Yaiba- The Movie: Infinity Castle (2025)
 https://cloud.hownetwork.xyz/xxx/Jh0kIStUBC0jKBI-bls_NScMOjtoFxhsOzAeLiIdIjAnVSQhMxASbCs_ESUtWSIhbxsoPTEVEmxwYUV5bmcTGgY0FhYaTkMnejMVeyY/38/480.m3u8
 
 #=========================
 
-#EXTINF:-1 group-title="FILM KARTUN",Detective Conan: One-Eyed Flashback
+#EXTINF:-1 group-title="FILM;KARTUN",Detective Conan: One-Eyed Flashback
 https://cloud.hownetwork.xyz/xxx/Jh09KyYNHjcnfBQjLVE4dS0WLGMgABIlbzcbLTBYNDkhE2R8dUtCbBUUNQgPbw4Hekh9L3RJQnA/37/480.m3u8
 
+#=========================
 
-#EXTINF:-1 tvg-logo="https://rricoid-assets.obs.ap-southeast-4.myhuaweicloud.com/berita/Bengkulu/o/1724074705147-Anime_AttackonTitan_Movie_TheLastAttack-1024x576-1/ylufb6d58fpyvnz.jpeg",Attack on Titan the Movie: The Last Attack (2024)
-https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/10/08548/y8nusmbtolfw_x/index-v1-a1.m3u8?t=tPCqI9c8XXP57-ctlTr05JDsEqatTLh5zsGYVnETXuQ&s=1774762925&e=10800&f=42742157&srv=1070&asn=24203&sp=5500&p=0
-
-#EXTINF:-1 tvg-logo="https://rricoid-assets.obs.ap-southeast-4.myhuaweicloud.com/berita/Bengkulu/o/1724074705147-Anime_AttackonTitan_Movie_TheLastAttack-1024x576-1/ylufb6d58fpyvnz.jpeg",Attack on Titan the Movie: The Last Attack (2024)
+#EXTINF:-1 tvg-logo="https://rricoid-assets.obs.ap-southeast-4.myhuaweicloud.com/berita/Bengkulu/o/1724074705147-Anime_AttackonTitan_Movie_TheLastAttack-1024x576-1/ylufb6d58fpyvnz.jpeg" group-title="FILM;KARTUN",Attack on Titan the Movie: The Last Attack (2024)
 https://hls5.turbosplayer.com/file/140bd99d-088d-11f0-9661-a036bca6dac8/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/4d/a4/d4/4da4d4c94ea6a1c7cb5fbd17e968786a.jpg" group-title="FILM KARTUN",Spider-Man: Across the Spider-Verse (2023)
-https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/01/04523/h1gyvm8ve1vw_h/index-v1-a1.m3u8?t=Zzye05xBuCP-_jFIcdf_FBgxLhHRf07X5I7E9kByBIw&s=1774750311&e=10800&f=22615775&srv=1065&asn=24203&sp=4000&p=0
+#=========================
 
+#EXTINF:-1 group-title="FILM;KARTUN",Attack on Titan: Chronicle (2020)
+https://cloud.hownetwork.xyz/xxx/8d9ef98a93802f049f46f69300024183/1/480.m3u8
 
+#=========================
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/4d/a4/d4/4da4d4c94ea6a1c7cb5fbd17e968786a.jpg" group-title="FILM;KARTUN",Spider-Man: Across the Spider-Verse (2023)
+https://cloud.hownetwork.xyz/xxx/4fbbb60f4c086ae01628d203b91ed6d4/1/480.m3u8
+
+#=========================
+
+#EXTINF:-1 group-title="FILM;KARTUN",Spirited Away (Sen to Chihiro no kamikakushi) (2001)
+https://cloud.hownetwork.xyz/xxx/0cd40423f0b24443515cf184c8df3c53/11/480.m3u8
+
+#=========================
+
+#EXTINF:-1 group-title="FILM;KARTUN",Gintama: The Final (2021)
+https://cloud.hownetwork.xyz/xxx/ec7610cfeffa80beec8e11cd8cbb4a44/4/480.m3u8
+
+#=========================
+
+#EXTINF:-1 group-title="FILM;KARTUN",Grave of the Fireflies (1988)
+https://cloud.hownetwork.xyz/xxx/5b9739c09e4114d6997d9cbd15c271af/26/480.m3u8
+
+#=========================
+
+#EXTINF:-1 group-title="FILM;KARTUN",The Lion King (1994)
+https://cloud.hownetwork.xyz/xxx/c7e4be82a2bc048e72bc068606081eb6/9/480.m3u8
+
+#=========================
+
+#EXTINF:-1 group-title="FILM;KARTUN",Ejen Ali the Movie 2 (2025)
+https://cloud.hownetwork.xyz/xxx/JxIsIGgYGyhvPBg6KlV7am9KeXxwVCAEABU7ExtvZG4hG3F6dEs/34/480.m3u8
+
+#=========================
+
+#EXTINF:-1 group-title="FILM;KARTUN",Gekijoban Shingeki no Kyojin Season 2: Kakusei no hoko (2018)
+https://cloud.hownetwork.xyz/xxx/e1c865b0365b1fd15041ced20f933eb5/5/480.m3u8
+
+#=========================
+
+#EXTINF:-1 group-title="FILM;KARTUN",Coco (2017)
+https://cloud.hownetwork.xyz/xxx/33ea43d9a021842436dc246b498af524/5/480.m3u8
+
+#=========================
+
+#EXTINF:-1 group-title="FILM;KARTUN",Your Name (Kimi no na wa.) (2016)
+https://cloud.hownetwork.xyz/xxx/c34d0bc6a818e059205dffc96fb54bed/3/480.m3u8
+
+#=========================
+
+#EXTINF:-1 group-title="FILM;KARTUN",WALL E (2008)
+https://cloud.hownetwork.xyz/xxx/81d97ab8c028c7635db3f0728ef7ab2b/25/480.m3u8
+
+#=========================
+
+#EXTINF:-1 group-title="FILM;KARTUN",Piper (2016)
+https://cloud.hownetwork.xyz/xxx/3fc79f295057d21c7ab1bd9a277f54bd/9/480.m3u8
+
+#=========================
+
+#EXTINF:-1 group-title="FILM;KARTUN",Toy Story 3 (2010)
+https://cloud.hownetwork.xyz/xxx/85b60fd08e7c1dafcf1d4609d7894742/1/480.m3u8
+
+#=========================
+
+#EXTINF:-1 group-title="FILM;KARTUN",Up (2009)
+https://cloud.hownetwork.xyz/xxx/ff2e8671c6055e169d724da42e8a1c0e/1/480.m3u8
 
 
 
