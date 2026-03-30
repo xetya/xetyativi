@@ -3092,9 +3092,8 @@ http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/1067262.m3u8
 
 
 
-#EXTINF:-1,Timnas Live
-https://www.youtube.com/live/h7crB36dEWE?si=jYEiO4nYmvNJJ5z2
-
+#EXTINF:-1 group-title="Live Event",Timnas Live
+https://www.youtube.com/live/h7crB36dEWE?si=CF0Yulw8rmrAUOcN
 🔷══════════════════════════════════════════════════════════════════ [TV CADANGAN] ══════════════════════════════════════════════════════════════════🔷
 
 
